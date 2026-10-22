@@ -112,28 +112,24 @@ A collection of projects focused on webpage structure, styling, and layout desig
   <img src="https://github-profile-trophy.vercel.app/?username=sajidpathan72&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Profile Trophies"/>
 </p>
 
+
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="mailto:sajidkhan0725@gmail.com">
-    📧 Email
-  </a>
-  <br/>
-  <a href="https://linkedin.com/in/sajidkhan-rajukhan-pathan-873b8343b">
-    💼 LinkedIn
-  </a>
-  <br/>
-  <a href="https://github.com/sajidpathan72">
-    🐙 GitHub
-  </a>
-  <br/>
-  <a href="https://instagram.com/_sajid_pathan_72">
-    📸 Instagram
-  </a>
+  📧 <strong>Email:</strong>
+  <a href="mailto:rn6053679@gmail.com">rn6053679@gmail.com</a>
+  <br/><br/>
+  📱 <strong>Phone:</strong> 9104678692
+  <br/><br/>
+  📍 <strong>Location:</strong> Vadodara, Gujarat, India
+  <br/><br/>
+  💼 <strong>LinkedIn:</strong>
+  <a href="https://linkedin.com/in/sajidkhan-rajukhan-pathan-873b8343b">LinkedIn Profile</a>
+  <br/><br/>
+  🐙 <strong>GitHub:</strong>
+  <a href="https://github.com/sajidpathan72">sajidpathan72</a>
+  <br/><br/>
+  📸 <strong>Instagram:</strong>
+  <a href="https://instagram.com/_sajid_pathan_72">_sajid_pathan_72</a>
 </p>
 
----
-
-<p align="center">
-  <i>Learning every day. Building one project at a time.</i>
-</p>
