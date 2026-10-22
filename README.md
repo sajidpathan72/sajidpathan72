@@ -1,25 +1,139 @@
-<h1 align="center">Hi 👋, I'm Sajid Pathan</h1>
-<h3 align="center">A passionate full Stackx developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajidpathan72" alt="sajidpathan72" /></a> </p>
+<h1 align="center">Hi 👋, I'm Sajidkhan Rajukhan Pathan</h1>
 
-- 🌱 I’m currently learning **Full stack developer**
+<h3 align="center">Full Stack Web Developer | MERN Stack</h3>
 
-- 💬 Ask me about **html, css,javacript**
-
-- 📫 How to reach me **sajidkhan0725@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sajid-pathan-923116369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sajid-pathan-923116369" height="30" width="40" /></a>
-<a href="https://instagram.com/_sajid_pathan_72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sajid_pathan_72" height="30" width="40" /></a>
+<p align="center">
+  BCA Graduate | Full Stack Web Development Training Completed
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/sajidpathan72">
+    <img src="https://img.shields.io/badge/GitHub-sajidpathan72-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/sajidkhan-rajukhan-pathan-873b8343b">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/_sajid_pathan_72">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajidpathan72&show_icons=true&locale=en&layout=compact" alt="sajidpathan72" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajidpathan72&show_icons=true&locale=en" alt="sajidpathan72" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajidpathan72&" alt="sajidpathan72" /></p>
+- 🎓 BCA graduate from P. M. Patel, Anand.
+- 💻 Completed Full Stack Web Development training at Baroda Institute of Technology (BIT).
+- 🚀 Interested in developing modern, responsive, and user-friendly web applications.
+- 🛠️ Practicing frontend development, backend APIs, and CRUD applications.
+- 🎯 Looking for an opportunity to start my professional career as a Web Developer.
+- 📍 Based in India.
+
+## 🛠️ Technical Skills
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" alt="HTML CSS JavaScript React Bootstrap Tailwind CSS"/>
+</p>
+
+### Backend Development & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js Express MongoDB"/>
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman" alt="Git GitHub Postman"/>
+</p>
+
+## 🚀 Featured Projects
+
+### 🛒 1. Grocify — React Grocery Website
+
+A grocery website project focused on a clean user interface and responsive web design.
+
+**Technologies:** React, JavaScript, CSS
+
+[🔗 View Project on GitHub](https://github.com/sajidpathan72/React-JS-Grocify-Website)
+
+---
+
+### 🍽️ 2. Restaurant Website
+
+A restaurant website project focused on website layout, styling, and responsive design.
+
+**Technologies:** HTML, CSS, Bootstrap
+
+[🔗 View Project on GitHub](https://github.com/sajidpathan72/Bootsrap-Project-Restaurant)
+
+---
+
+### 🌐 3. HTML, CSS & JavaScript Projects
+
+A collection of frontend practice projects demonstrating core web development concepts.
+
+**Technologies:** HTML, CSS, JavaScript
+
+[🔗 View Project on GitHub](https://github.com/sajidpathan72/HTML-CSS-JS_Projects-)
+
+---
+
+### 🎨 4. HTML & CSS Projects
+
+A collection of projects focused on webpage structure, styling, and layout design.
+
+**Technologies:** HTML, CSS
+
+[🔗 View Project on GitHub](https://github.com/sajidpathan72/HTML-CSS_Projects)
+
+## 🎓 Education & Training
+
+- **Bachelor of Computer Applications (BCA)** — P. M. Patel, Anand *(Completed)*
+- **Full Stack Web Development Training** — Baroda Institute of Technology (BIT) *(Completed)*
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sajidpathan72&show_icons=true&theme=default&hide_border=true" alt="Sajid's GitHub Statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidpathan72&layout=compact&theme=default&hide_border=true" alt="Most Used Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajidpathan72&theme=default&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sajidpathan72&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Profile Trophies"/>
+</p>
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="mailto:sajidkhan0725@gmail.com">
+    📧 Email
+  </a>
+  <br/>
+  <a href="https://linkedin.com/in/sajidkhan-rajukhan-pathan-873b8343b">
+    💼 LinkedIn
+  </a>
+  <br/>
+  <a href="https://github.com/sajidpathan72">
+    🐙 GitHub
+  </a>
+  <br/>
+  <a href="https://instagram.com/_sajid_pathan_72">
+    📸 Instagram
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Learning every day. Building one project at a time.</i>
+</p>
